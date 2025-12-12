@@ -13,8 +13,3 @@ A compact repository containing two Python scripts for **Iris dataset analysis**
 - Model training & prediction
 - Confusion matrix
 - Classification report (precision, recall, F1-score)
-
-## 📦 Requirements
-```
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
